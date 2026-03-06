@@ -225,6 +225,7 @@
 @media (max-width: 768px) {
     .privacy-card { padding: 30px 20px; }
     .privacy-hero h1 { font-size: 2.2rem; }
+    .privacy-page { padding-top: 130px;}
 }
       
       
