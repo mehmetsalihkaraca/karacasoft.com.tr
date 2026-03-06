@@ -1,6 +1,6 @@
 #  Karaca Soft - Kurumsal Web Projesi
 
-Bu proje, **Mehmet Salih Karaca** tarafından geliştirilen, modern web teknolojilerini barındıran ve kullanıcı deneyimini ön planda tutan kurumsal bir web sitesidir. [cite: 2025-06-04, 2025-11-12]
+Bu proje, **Mehmet Salih Karaca** tarafından geliştirilen, modern web teknolojilerini barındıran ve kullanıcı deneyimini ön planda tutan kurumsal bir web sitesidir. 
 
 ##  Öne Çıkan Özellikler
 
@@ -8,7 +8,7 @@ Bu proje, **Mehmet Salih Karaca** tarafından geliştirilen, modern web teknoloj
 * **Hızlı Arama (Fuse.js):** Proje içerisinde yer alan içerikler, Fuse.js kütüphanesi kullanılarak anlık ve esnek bir şekilde aranabilir.
 * **6 Dil Desteği:** Küresel erişilebilirlik için tam 6 farklı dilde içerik desteği sunar.
 * **Çerez Yönetimi:** Kullanıcı tercihleri ve oturum yönetimi için optimize edilmiş çerez (cookie) sistemi.
-* **Modern Altyapı:** PHP tabanlı, SEO uyumlu ve hızlı yüklenen bir mimari. [cite: 2025-09-24]
+* **Modern Altyapı:** PHP tabanlı, SEO uyumlu ve hızlı yüklenen bir mimari.
 
 ##  Kullanılan Teknolojiler
 
