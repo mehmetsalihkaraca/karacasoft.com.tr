@@ -652,7 +652,17 @@ document.addEventListener("DOMContentLoaded", function() {
 })();
 
 
-
+// Mobil menü linkine tıklandığında menüyü otomatik kapat
+document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
+    link.addEventListener('click', () => {
+        const navbarCollapse = document.querySelector('.navbar-collapse');
+        if (navbarCollapse.classList.contains('show')) {
+            // Bootstrap'in kendi metodunu kullanarak kapatıyoruz
+            const bsCollapse = new bootstrap.Collapse(navbarCollapse);
+            bsCollapse.hide();
+        }
+    });
+});
 
 // if ('serviceWorker' in navigator) {
 //     window.addEventListener('load', () => {
