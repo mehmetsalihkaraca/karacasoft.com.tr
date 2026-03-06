@@ -654,13 +654,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
-            .then(reg => console.log('Service Worker Kayıt Başarılı!'))
-            .catch(err => console.log('Service Worker Hatası:', err));
-    });
-}
+// if ('serviceWorker' in navigator) {
+//     window.addEventListener('load', () => {
+//         navigator.serviceWorker.register('/sw.js')
+//             .then(reg => console.log('Service Worker Kayıt Başarılı!'))
+//             .catch(err => console.log('Service Worker Hatası:', err));
+//     });
+// }
 
 
 

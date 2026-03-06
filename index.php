@@ -23,9 +23,8 @@
     <meta name="twitter:title" content="Karaca Soft | Mehmet Salih Karaca">
     <meta name="twitter:description" content="Sistem Yöneticisi ve E-Ticaret Uzmanı. Profesyonel web çözümleri.">
     <meta name="twitter:image" content="assets/img/newfotis.jpg">
-
-    <!--<link rel="manifest" href="/manifest.json">-->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"> 
+     
+    <!-- <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">  -->
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
