@@ -220,12 +220,7 @@
     margin-bottom: 0;
 }
 
-/* Dark Mode Integration */
-body.dark-mode .privacy-page { background-color: #0f0f1e; }
-body.dark-mode .privacy-card { background-color: #16213e; }
-body.dark-mode .privacy-item h3 { color: white; }
-body.dark-mode .privacy-item p, body.dark-mode .privacy-item ul li { color: #b0b0b0; }
-body.dark-mode .contact-box { background: rgba(0, 129, 151, 0.1); }
+
 
 @media (max-width: 768px) {
     .privacy-card { padding: 30px 20px; }
@@ -255,9 +250,7 @@ body.dark-mode .contact-box { background: rgba(0, 129, 151, 0.1); }
             </div>
             <div id="searchResults"></div>
             
-            <button class="theme-toggle" id="themeToggle" title="Tema değiştir" aria-label="Karanlık moda geç">
-                <i class="fas fa-moon"></i>
-            </button>
+
 
             <div id="google_translate_element"></div>
 

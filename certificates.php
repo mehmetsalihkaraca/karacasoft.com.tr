@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sertifikalarım | Karaca Soft - Mehmet Salih Karaca</title>
-    <meta name="description" content="Mehmet Salih Karaca - Full Stack Developer, Sistem Yöneticisi ve E-Ticaret Uzmanı. Magento, WordPress, Linux ve Docker çözümleri.">
-    <meta name="keywords" content="web geliştirme, e-ticaret, magento, wordpress, linux, docker, php, python, sistem yönetimi, karaca soft">
+    <meta name="description" content="Mehmet Salih Karaca - sertifikalar, Sistem Yöneticisi ve E-Ticaret Uzmanı. Magento, WordPress, Linux ve Docker çözümleri.">
+    <meta name="keywords" content="web geliştirme, e-ticaret, magento, wordpress, linux, windows server, sistem yönetimi, karaca soft">
     <meta name="author" content="Mehmet Salih Karaca">
     <meta name="robots" content="index, follow">
     
@@ -94,10 +94,6 @@
     border-left: none !important;
 }
 
-      /*body {*/
-      /*  top: 0 !important;*/
-      /*  position: static !important;*/
-      /*}*/
 
       @media (max-width: 991px) {
         #google_translate_element {
@@ -135,12 +131,8 @@
                 <input type="text" id="searchInput" placeholder="Site içinde ara..." aria-label="Site içi arama">
                 <i class="fas fa-search search-icon"></i>
             </div>
-            <div id="searchResults"></div>
-            
-            <!-- Theme Toggle -->
-            <button class="theme-toggle" id="themeToggle" title="Tema değiştir" aria-label="Karanlık moda geç">
-                <i class="fas fa-moon"></i>
-            </button>
+            <div id="searchResults"></div>           
+   
 
             <!-- Google Translate -->
             <div id="google_translate_element"></div>
@@ -397,7 +389,7 @@
     </div>
 </div>
 
-<!-- Küçük ikon (seçim yapıldıktan sonra sağ altta görünür) -->
+<!-- Küçük ikon (seçim yapıldıktan sonra sol altta görünür) -->
 <div id="cookie-trigger" onclick="toggleCookiePanel()" title="Çerez Ayarları">
     <i class="fas fa-cookie"></i>
 </div>

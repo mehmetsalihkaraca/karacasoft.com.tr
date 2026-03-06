@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Karaca Soft | Mehmet Salih Karaca - System Management & Server Managment</title>
-    <meta name="description" content="Mehmet Salih Karaca - Full Stack Developer, Sistem Yöneticisi ve E-Ticaret Uzmanı. Magento, WordPress, Linux ve Docker çözümleri.">
-    <meta name="keywords" content="web geliştirme, e-ticaret, magento, wordpress, linux, docker, php, python, sistem yönetimi, karaca soft">
+    <meta name="description" content="Mehmet Salih Karaca - Developer, Sistem Yöneticisi ve E-Ticaret Uzmanı. Magento, WordPress, Linux ve Docker çözümleri.">
+    <meta name="keywords" content="web geliştirme, e-ticaret, magento, wordpress, linux, docker, sistem yönetimi, karaca soft">
     <meta name="author" content="Mehmet Salih Karaca">
     <meta name="robots" content="index, follow">
     
@@ -95,10 +95,6 @@
     border-left: none !important;
 }
 
-      /*body {*/
-      /*  top: 0 !important;*/
-      /*  position: static !important;*/
-      /*}*/
 
       @media (max-width: 991px) {
         #google_translate_element {
