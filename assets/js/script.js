@@ -379,20 +379,20 @@ function loadTrackingScripts() {
 /* ==========================================
    4. DARK MODE (LocalStorage İle Sabitlendi)
    ========================================== */
-const themeToggle = document.getElementById('themeToggle');
-if (themeToggle) {
-    const icon = themeToggle.querySelector('i');
-    if (document.cookie.includes('theme=dark')) {
-        document.body.classList.add('dark-mode');
-        icon.classList.replace('fa-moon', 'fa-sun');
-    }
-    themeToggle.addEventListener('click', () => {
-        const isDark = document.body.classList.toggle('dark-mode');
-        icon.classList.toggle('fa-moon', !isDark);
-        icon.classList.toggle('fa-sun', isDark);
-        document.cookie = `theme=${isDark ? 'dark' : 'light'}; path=/; max-age=31536000`;
-    });
-}
+// const themeToggle = document.getElementById('themeToggle');
+// if (themeToggle) {
+//     const icon = themeToggle.querySelector('i');
+//     if (document.cookie.includes('theme=dark')) {
+//         document.body.classList.add('dark-mode');
+//         icon.classList.replace('fa-moon', 'fa-sun');
+//     }
+//     themeToggle.addEventListener('click', () => {
+//         const isDark = document.body.classList.toggle('dark-mode');
+//         icon.classList.toggle('fa-moon', !isDark);
+//         icon.classList.toggle('fa-sun', isDark);
+//         document.cookie = `theme=${isDark ? 'dark' : 'light'}; path=/; max-age=31536000`;
+//     });
+// }
 
 /* ==========================================
    5. CERTIFICATE MODAL

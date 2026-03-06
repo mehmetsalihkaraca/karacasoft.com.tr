@@ -136,9 +136,9 @@
             </div>
             <div id="searchResults"></div>
             
-            <button class="theme-toggle" id="themeToggle" title="Tema değiştir" aria-label="Karanlık moda geç">
+            <!-- <button class="theme-toggle" id="themeToggle" title="Tema değiştir" aria-label="Karanlık moda geç">
                 <i class="fas fa-moon"></i>
-            </button>
+            </button> -->
 
             <div id="google_translate_element"></div>
 
