@@ -770,6 +770,29 @@
     function gtag(){ dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-029F98DFCC');
+
+    function showStatusMessage(text, color) {
+    const msg = document.createElement('div');
+    msg.style = `position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:${color}; color:white; padding:12px 25px; border-radius:30px; z-index:9999; font-family:sans-serif; box-shadow:0 4px 15px rgba(0,0,0,0.2); transition: opacity 0.5s;`;
+    msg.innerHTML = text;
+    document.body.appendChild(msg);
+
+    // 5 saniye sonra mesajı yavaşça yok et
+    setTimeout(() => {
+        msg.style.opacity = '0';
+        setTimeout(() => msg.remove(), 500);
+    }, 5000);
+}
+
+window.addEventListener('offline', () => {
+    showStatusMessage("📴 İnternet kesildi. Karaca Soft çevrimdışı modda!", "#e74c3c");
+});
+
+window.addEventListener('online', () => {
+    showStatusMessage("🌐 İnternet geri geldi. Bağlantı sağlandı!", "#2ecc71");
+});
+
+ 
 </script>
     
 
