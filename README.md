@@ -1,4 +1,4 @@
-#  Karaca Soft - Kurumsal Web Projesi
+#  Karaca Soft - Kişisel Web Projesi
 
 Bu proje, **Mehmet Salih Karaca** tarafından geliştirilen, modern web teknolojilerini barındıran ve kullanıcı deneyimini ön planda tutan kurumsal bir web sitesidir. 
 
