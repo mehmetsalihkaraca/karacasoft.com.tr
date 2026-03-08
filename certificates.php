@@ -195,7 +195,7 @@
                         </div>
                         <div class="cert-info">
                             <h5>Sıfırdan Windows Server ve Sistem Yöneticiliği Eğitimi 2025</h5>
-                            <span class="cert-issuer"><i class="fas fa-award"></i> UDEMY</span>
+                            <span class="cert-issuer"><i class="fas fa-award"></i>UDEMY</span>
                             <span class="cert-year"><i class="fas fa-calendar-alt"></i>2025</span>
                         </div>
                     </div>
@@ -297,6 +297,25 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 mt-3 animate-on-scroll" data-delay="0.6">
+                    <div class="cert-card"
+                         data-img="assets/img/certificates/cert7.webp"
+                         data-title="Sıfırdan SQL Eğitimi"
+                         data-issuer="UDEMY"
+                         data-year="2026"
+                         onclick="openCertModal(this)">
+                        <div class="cert-img-wrap">
+                            <img src="assets/img/certificates/cert6.webp" alt="Sıfırdan SQL Eğitimi" loading="lazy">
+                            <div class="cert-zoom-icon"><i class="fas fa-expand-alt"></i></div>
+                        </div>
+                        <div class="cert-info">
+                            <h5>Sıfırdan SQL Eğitimi</h5>
+                            <span class="cert-issuer"><i class="fas fa-award"></i>BTK AKADEMİ</span>
+                            <span class="cert-year"><i class="fas fa-calendar-alt"></i>2026</span>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </main>
