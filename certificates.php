@@ -314,6 +314,24 @@
                             <span class="cert-year"><i class="fas fa-calendar-alt"></i>2026</span>
                         </div>
                     </div>
+                </div>   
+                <div class="col-lg-4 col-md-6 mt-3 animate-on-scroll" data-delay="0.6">
+                    <div class="cert-card"
+                         data-img="assets/img/certificates/cert8.webp"
+                         data-title="A1 Seviye İngilizce"
+                         data-issuer="BTK AKADEMİ"
+                         data-year="2026"
+                         onclick="openCertModal(this)">
+                        <div class="cert-img-wrap">
+                            <img src="assets/img/certificates/cert8.webp" alt="A1 Seviye İngilizce" loading="lazy">
+                            <div class="cert-zoom-icon"><i class="fas fa-expand-alt"></i></div>
+                        </div>
+                        <div class="cert-info">
+                            <h5>A1 Seviye İngilizce</h5>
+                            <span class="cert-issuer"><i class="fas fa-award"></i>BTK AKADEMİ</span>
+                            <span class="cert-year"><i class="fas fa-calendar-alt"></i>2026</span>
+                        </div>
+                    </div>
                 </div>
 
             </div>
