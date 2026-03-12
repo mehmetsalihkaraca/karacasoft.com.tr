@@ -708,6 +708,8 @@
             <div class="copyright">
                 &copy; 2022 - 2026 Karaca Soft - Mehmet Salih Karaca. Tüm hakları saklıdır.
             </div>
+            <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mehmet-salih-karaca-2142a4262" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/mehmet-salih-karaca-2142a4262/tr?trk=profile-badge">Mehmet Salih Karaca</a></div>
+              
         </div>
     </footer>
 
